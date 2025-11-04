@@ -1,0 +1,12 @@
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryDebtRepayment\tryDebtRepayment\bin\Debug\tryDebtRepayment.exe.config
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryDebtRepayment\tryDebtRepayment\bin\Debug\tryDebtRepayment.exe
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryDebtRepayment\tryDebtRepayment\bin\Debug\tryDebtRepayment.pdb
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryDebtRepayment\tryDebtRepayment\bin\Debug\tryDebtRepayment.xml
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryDebtRepayment\tryDebtRepayment\obj\Debug\tryDebtRepayment.vbproj.AssemblyReference.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryDebtRepayment\tryDebtRepayment\obj\Debug\tryDebtRepayment.vbproj.SuggestedBindingRedirects.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryDebtRepayment\tryDebtRepayment\obj\Debug\tryDebtRepayment.Resources.resources
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryDebtRepayment\tryDebtRepayment\obj\Debug\tryDebtRepayment.vbproj.GenerateResource.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryDebtRepayment\tryDebtRepayment\obj\Debug\tryDebtRepayment.vbproj.CoreCompileInputs.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryDebtRepayment\tryDebtRepayment\obj\Debug\tryDebtRepayment.exe
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryDebtRepayment\tryDebtRepayment\obj\Debug\tryDebtRepayment.xml
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryDebtRepayment\tryDebtRepayment\obj\Debug\tryDebtRepayment.pdb

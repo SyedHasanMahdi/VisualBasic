@@ -1,0 +1,12 @@
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryFor\tryFor\bin\Debug\tryFor.exe.config
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryFor\tryFor\bin\Debug\tryFor.exe
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryFor\tryFor\bin\Debug\tryFor.pdb
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryFor\tryFor\bin\Debug\tryFor.xml
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryFor\tryFor\obj\Debug\tryFor.vbproj.AssemblyReference.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryFor\tryFor\obj\Debug\tryFor.vbproj.SuggestedBindingRedirects.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryFor\tryFor\obj\Debug\tryFor.Resources.resources
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryFor\tryFor\obj\Debug\tryFor.vbproj.GenerateResource.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryFor\tryFor\obj\Debug\tryFor.vbproj.CoreCompileInputs.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryFor\tryFor\obj\Debug\tryFor.exe
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryFor\tryFor\obj\Debug\tryFor.xml
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryFor\tryFor\obj\Debug\tryFor.pdb
