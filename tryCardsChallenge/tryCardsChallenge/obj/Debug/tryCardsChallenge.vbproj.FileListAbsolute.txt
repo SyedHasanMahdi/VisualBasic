@@ -1,0 +1,11 @@
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCardsChallenge\tryCardsChallenge\bin\Debug\tryCardsChallenge.exe.config
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCardsChallenge\tryCardsChallenge\bin\Debug\tryCardsChallenge.exe
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCardsChallenge\tryCardsChallenge\bin\Debug\tryCardsChallenge.pdb
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCardsChallenge\tryCardsChallenge\bin\Debug\tryCardsChallenge.xml
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCardsChallenge\tryCardsChallenge\obj\Debug\tryCardsChallenge.vbproj.AssemblyReference.cache
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCardsChallenge\tryCardsChallenge\obj\Debug\tryCardsChallenge.Resources.resources
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCardsChallenge\tryCardsChallenge\obj\Debug\tryCardsChallenge.vbproj.GenerateResource.cache
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCardsChallenge\tryCardsChallenge\obj\Debug\tryCardsChallenge.vbproj.CoreCompileInputs.cache
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCardsChallenge\tryCardsChallenge\obj\Debug\tryCardsChallenge.exe
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCardsChallenge\tryCardsChallenge\obj\Debug\tryCardsChallenge.xml
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCardsChallenge\tryCardsChallenge\obj\Debug\tryCardsChallenge.pdb

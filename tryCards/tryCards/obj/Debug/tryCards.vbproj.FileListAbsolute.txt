@@ -1,0 +1,11 @@
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCards\tryCards\bin\Debug\tryCards.exe.config
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCards\tryCards\bin\Debug\tryCards.exe
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCards\tryCards\bin\Debug\tryCards.pdb
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCards\tryCards\bin\Debug\tryCards.xml
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCards\tryCards\obj\Debug\tryCards.vbproj.AssemblyReference.cache
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCards\tryCards\obj\Debug\tryCards.Resources.resources
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCards\tryCards\obj\Debug\tryCards.vbproj.GenerateResource.cache
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCards\tryCards\obj\Debug\tryCards.vbproj.CoreCompileInputs.cache
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCards\tryCards\obj\Debug\tryCards.exe
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCards\tryCards\obj\Debug\tryCards.xml
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryCards\tryCards\obj\Debug\tryCards.pdb
