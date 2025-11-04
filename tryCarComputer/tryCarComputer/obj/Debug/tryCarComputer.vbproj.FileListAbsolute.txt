@@ -1,0 +1,12 @@
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryCarComputer\tryCarComputer\bin\Debug\tryCarComputer.exe.config
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryCarComputer\tryCarComputer\bin\Debug\tryCarComputer.exe
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryCarComputer\tryCarComputer\bin\Debug\tryCarComputer.pdb
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryCarComputer\tryCarComputer\bin\Debug\tryCarComputer.xml
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryCarComputer\tryCarComputer\obj\Debug\tryCarComputer.vbproj.AssemblyReference.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryCarComputer\tryCarComputer\obj\Debug\tryCarComputer.vbproj.SuggestedBindingRedirects.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryCarComputer\tryCarComputer\obj\Debug\tryCarComputer.Resources.resources
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryCarComputer\tryCarComputer\obj\Debug\tryCarComputer.vbproj.GenerateResource.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryCarComputer\tryCarComputer\obj\Debug\tryCarComputer.vbproj.CoreCompileInputs.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryCarComputer\tryCarComputer\obj\Debug\tryCarComputer.exe
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryCarComputer\tryCarComputer\obj\Debug\tryCarComputer.xml
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryCarComputer\tryCarComputer\obj\Debug\tryCarComputer.pdb

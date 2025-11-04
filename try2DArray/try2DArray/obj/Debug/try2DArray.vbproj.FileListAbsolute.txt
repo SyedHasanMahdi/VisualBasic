@@ -1,0 +1,12 @@
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\try2DArray\try2DArray\bin\Debug\try2DArray.exe.config
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\try2DArray\try2DArray\bin\Debug\try2DArray.exe
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\try2DArray\try2DArray\bin\Debug\try2DArray.pdb
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\try2DArray\try2DArray\bin\Debug\try2DArray.xml
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\try2DArray\try2DArray\obj\Debug\try2DArray.vbproj.AssemblyReference.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\try2DArray\try2DArray\obj\Debug\try2DArray.vbproj.SuggestedBindingRedirects.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\try2DArray\try2DArray\obj\Debug\try2DArray.Resources.resources
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\try2DArray\try2DArray\obj\Debug\try2DArray.vbproj.GenerateResource.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\try2DArray\try2DArray\obj\Debug\try2DArray.vbproj.CoreCompileInputs.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\try2DArray\try2DArray\obj\Debug\try2DArray.exe
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\try2DArray\try2DArray\obj\Debug\try2DArray.xml
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\try2DArray\try2DArray\obj\Debug\try2DArray.pdb

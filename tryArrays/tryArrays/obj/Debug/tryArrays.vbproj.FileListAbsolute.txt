@@ -1,0 +1,11 @@
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryArrays\tryArrays\obj\Debug\tryArrays.vbproj.SuggestedBindingRedirects.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryArrays\tryArrays\obj\Debug\tryArrays.Resources.resources
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryArrays\tryArrays\obj\Debug\tryArrays.vbproj.GenerateResource.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryArrays\tryArrays\obj\Debug\tryArrays.vbproj.CoreCompileInputs.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryArrays\tryArrays\bin\Debug\tryArrays.exe.config
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryArrays\tryArrays\bin\Debug\tryArrays.exe
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryArrays\tryArrays\bin\Debug\tryArrays.pdb
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryArrays\tryArrays\bin\Debug\tryArrays.xml
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryArrays\tryArrays\obj\Debug\tryArrays.exe
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryArrays\tryArrays\obj\Debug\tryArrays.xml
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryArrays\tryArrays\obj\Debug\tryArrays.pdb
