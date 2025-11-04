@@ -1,0 +1,12 @@
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWeather\tryWeather\obj\Debug\tryWeather.vbproj.AssemblyReference.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWeather\tryWeather\obj\Debug\tryWeather.vbproj.SuggestedBindingRedirects.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWeather\tryWeather\obj\Debug\tryWeather.Resources.resources
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWeather\tryWeather\obj\Debug\tryWeather.vbproj.GenerateResource.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWeather\tryWeather\obj\Debug\tryWeather.vbproj.CoreCompileInputs.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWeather\tryWeather\bin\Debug\tryWeather.exe.config
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWeather\tryWeather\bin\Debug\tryWeather.exe
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWeather\tryWeather\bin\Debug\tryWeather.pdb
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWeather\tryWeather\bin\Debug\tryWeather.xml
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWeather\tryWeather\obj\Debug\tryWeather.exe
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWeather\tryWeather\obj\Debug\tryWeather.xml
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWeather\tryWeather\obj\Debug\tryWeather.pdb

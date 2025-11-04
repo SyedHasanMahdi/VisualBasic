@@ -1,0 +1,12 @@
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWrite\tryWrite\bin\Debug\tryWrite.exe.config
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWrite\tryWrite\bin\Debug\tryWrite.exe
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWrite\tryWrite\bin\Debug\tryWrite.pdb
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWrite\tryWrite\bin\Debug\tryWrite.xml
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWrite\tryWrite\obj\Debug\tryWrite.vbproj.AssemblyReference.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWrite\tryWrite\obj\Debug\tryWrite.vbproj.SuggestedBindingRedirects.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWrite\tryWrite\obj\Debug\tryWrite.Resources.resources
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWrite\tryWrite\obj\Debug\tryWrite.vbproj.GenerateResource.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWrite\tryWrite\obj\Debug\tryWrite.vbproj.CoreCompileInputs.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWrite\tryWrite\obj\Debug\tryWrite.exe
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWrite\tryWrite\obj\Debug\tryWrite.xml
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryWrite\tryWrite\obj\Debug\tryWrite.pdb
