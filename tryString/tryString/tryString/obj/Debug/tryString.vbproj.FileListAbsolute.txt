@@ -1,0 +1,12 @@
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryString\tryString\tryString\bin\Debug\tryString.exe.config
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryString\tryString\tryString\bin\Debug\tryString.exe
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryString\tryString\tryString\bin\Debug\tryString.pdb
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryString\tryString\tryString\bin\Debug\tryString.xml
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryString\tryString\tryString\obj\Debug\tryString.vbproj.AssemblyReference.cache
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryString\tryString\tryString\obj\Debug\tryString.vbproj.SuggestedBindingRedirects.cache
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryString\tryString\tryString\obj\Debug\tryString.Resources.resources
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryString\tryString\tryString\obj\Debug\tryString.vbproj.GenerateResource.cache
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryString\tryString\tryString\obj\Debug\tryString.vbproj.CoreCompileInputs.cache
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryString\tryString\tryString\obj\Debug\tryString.exe
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryString\tryString\tryString\obj\Debug\tryString.xml
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryString\tryString\tryString\obj\Debug\tryString.pdb

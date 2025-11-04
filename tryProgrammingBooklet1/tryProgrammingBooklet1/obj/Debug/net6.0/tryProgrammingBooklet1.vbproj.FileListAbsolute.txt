@@ -1,0 +1,15 @@
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryProgrammingBooklet1\tryProgrammingBooklet1\bin\Debug\net6.0\tryProgrammingBooklet1.exe
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryProgrammingBooklet1\tryProgrammingBooklet1\bin\Debug\net6.0\tryProgrammingBooklet1.deps.json
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryProgrammingBooklet1\tryProgrammingBooklet1\bin\Debug\net6.0\tryProgrammingBooklet1.runtimeconfig.json
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryProgrammingBooklet1\tryProgrammingBooklet1\bin\Debug\net6.0\tryProgrammingBooklet1.dll
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryProgrammingBooklet1\tryProgrammingBooklet1\bin\Debug\net6.0\ref\tryProgrammingBooklet1.dll
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryProgrammingBooklet1\tryProgrammingBooklet1\bin\Debug\net6.0\tryProgrammingBooklet1.pdb
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryProgrammingBooklet1\tryProgrammingBooklet1\obj\Debug\net6.0\tryProgrammingBooklet1.vbproj.AssemblyReference.cache
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryProgrammingBooklet1\tryProgrammingBooklet1\obj\Debug\net6.0\tryProgrammingBooklet1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryProgrammingBooklet1\tryProgrammingBooklet1\obj\Debug\net6.0\tryProgrammingBooklet1.AssemblyInfoInputs.cache
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryProgrammingBooklet1\tryProgrammingBooklet1\obj\Debug\net6.0\tryProgrammingBooklet1.AssemblyInfo.vb
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryProgrammingBooklet1\tryProgrammingBooklet1\obj\Debug\net6.0\tryProgrammingBooklet1.vbproj.CoreCompileInputs.cache
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryProgrammingBooklet1\tryProgrammingBooklet1\obj\Debug\net6.0\tryProgrammingBooklet1.dll
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryProgrammingBooklet1\tryProgrammingBooklet1\obj\Debug\net6.0\ref\tryProgrammingBooklet1.dll
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryProgrammingBooklet1\tryProgrammingBooklet1\obj\Debug\net6.0\tryProgrammingBooklet1.pdb
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryProgrammingBooklet1\tryProgrammingBooklet1\obj\Debug\net6.0\tryProgrammingBooklet1.genruntimeconfig.cache

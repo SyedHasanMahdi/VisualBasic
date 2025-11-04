@@ -1,0 +1,12 @@
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryShapes\tryShapes\bin\Debug\tryShapes.exe.config
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryShapes\tryShapes\bin\Debug\tryShapes.exe
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryShapes\tryShapes\bin\Debug\tryShapes.pdb
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryShapes\tryShapes\bin\Debug\tryShapes.xml
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryShapes\tryShapes\obj\Debug\tryShapes.vbproj.AssemblyReference.cache
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryShapes\tryShapes\obj\Debug\tryShapes.vbproj.SuggestedBindingRedirects.cache
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryShapes\tryShapes\obj\Debug\tryShapes.Resources.resources
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryShapes\tryShapes\obj\Debug\tryShapes.vbproj.GenerateResource.cache
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryShapes\tryShapes\obj\Debug\tryShapes.vbproj.CoreCompileInputs.cache
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryShapes\tryShapes\obj\Debug\tryShapes.exe
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryShapes\tryShapes\obj\Debug\tryShapes.xml
+C:\Users\003674\OneDrive - Al Khor International School\Year 11\CS\Visual Basic\tryShapes\tryShapes\obj\Debug\tryShapes.pdb
