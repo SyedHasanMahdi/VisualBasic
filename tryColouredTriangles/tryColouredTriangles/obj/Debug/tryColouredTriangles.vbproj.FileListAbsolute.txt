@@ -1,0 +1,12 @@
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryColouredTriangles\tryColouredTriangles\bin\Debug\tryColouredTriangles.exe.config
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryColouredTriangles\tryColouredTriangles\bin\Debug\tryColouredTriangles.exe
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryColouredTriangles\tryColouredTriangles\bin\Debug\tryColouredTriangles.pdb
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryColouredTriangles\tryColouredTriangles\bin\Debug\tryColouredTriangles.xml
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryColouredTriangles\tryColouredTriangles\obj\Debug\tryColouredTriangles.vbproj.AssemblyReference.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryColouredTriangles\tryColouredTriangles\obj\Debug\tryColouredTriangles.vbproj.SuggestedBindingRedirects.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryColouredTriangles\tryColouredTriangles\obj\Debug\tryColouredTriangles.Resources.resources
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryColouredTriangles\tryColouredTriangles\obj\Debug\tryColouredTriangles.vbproj.GenerateResource.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryColouredTriangles\tryColouredTriangles\obj\Debug\tryColouredTriangles.vbproj.CoreCompileInputs.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryColouredTriangles\tryColouredTriangles\obj\Debug\tryColouredTriangles.exe
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryColouredTriangles\tryColouredTriangles\obj\Debug\tryColouredTriangles.xml
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryColouredTriangles\tryColouredTriangles\obj\Debug\tryColouredTriangles.pdb
