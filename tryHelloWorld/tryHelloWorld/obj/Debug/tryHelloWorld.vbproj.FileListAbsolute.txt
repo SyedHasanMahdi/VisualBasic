@@ -1,0 +1,12 @@
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryHelloWorld\tryHelloWorld\bin\Debug\tryHelloWorld.exe.config
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryHelloWorld\tryHelloWorld\bin\Debug\tryHelloWorld.exe
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryHelloWorld\tryHelloWorld\bin\Debug\tryHelloWorld.pdb
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryHelloWorld\tryHelloWorld\bin\Debug\tryHelloWorld.xml
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryHelloWorld\tryHelloWorld\obj\Debug\tryHelloWorld.vbproj.AssemblyReference.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryHelloWorld\tryHelloWorld\obj\Debug\tryHelloWorld.vbproj.SuggestedBindingRedirects.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryHelloWorld\tryHelloWorld\obj\Debug\tryHelloWorld.Resources.resources
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryHelloWorld\tryHelloWorld\obj\Debug\tryHelloWorld.vbproj.GenerateResource.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryHelloWorld\tryHelloWorld\obj\Debug\tryHelloWorld.vbproj.CoreCompileInputs.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryHelloWorld\tryHelloWorld\obj\Debug\tryHelloWorld.exe
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryHelloWorld\tryHelloWorld\obj\Debug\tryHelloWorld.xml
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\tryHelloWorld\tryHelloWorld\obj\Debug\tryHelloWorld.pdb

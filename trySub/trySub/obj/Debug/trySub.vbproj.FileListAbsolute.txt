@@ -1,0 +1,12 @@
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\trySub\trySub\bin\Debug\trySub.exe.config
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\trySub\trySub\bin\Debug\trySub.exe
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\trySub\trySub\bin\Debug\trySub.pdb
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\trySub\trySub\bin\Debug\trySub.xml
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\trySub\trySub\obj\Debug\trySub.vbproj.AssemblyReference.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\trySub\trySub\obj\Debug\trySub.vbproj.SuggestedBindingRedirects.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\trySub\trySub\obj\Debug\trySub.Resources.resources
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\trySub\trySub\obj\Debug\trySub.vbproj.GenerateResource.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\trySub\trySub\obj\Debug\trySub.vbproj.CoreCompileInputs.cache
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\trySub\trySub\obj\Debug\trySub.exe
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\trySub\trySub\obj\Debug\trySub.xml
+C:\Users\003674\OneDrive - Al Khor International School\AS Computer Science\trySub\trySub\obj\Debug\trySub.pdb
