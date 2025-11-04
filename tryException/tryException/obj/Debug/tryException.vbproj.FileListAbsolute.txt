@@ -1,0 +1,11 @@
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryException\tryException\bin\Debug\tryException.exe.config
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryException\tryException\bin\Debug\tryException.exe
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryException\tryException\bin\Debug\tryException.pdb
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryException\tryException\bin\Debug\tryException.xml
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryException\tryException\obj\Debug\tryException.vbproj.AssemblyReference.cache
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryException\tryException\obj\Debug\tryException.Resources.resources
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryException\tryException\obj\Debug\tryException.vbproj.GenerateResource.cache
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryException\tryException\obj\Debug\tryException.vbproj.CoreCompileInputs.cache
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryException\tryException\obj\Debug\tryException.exe
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryException\tryException\obj\Debug\tryException.xml
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryException\tryException\obj\Debug\tryException.pdb

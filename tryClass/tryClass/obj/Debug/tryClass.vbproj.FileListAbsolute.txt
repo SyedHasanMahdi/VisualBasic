@@ -1,0 +1,11 @@
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryClass\tryClass\bin\Debug\tryClass.exe.config
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryClass\tryClass\bin\Debug\tryClass.exe
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryClass\tryClass\bin\Debug\tryClass.pdb
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryClass\tryClass\bin\Debug\tryClass.xml
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryClass\tryClass\obj\Debug\tryClass.vbproj.AssemblyReference.cache
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryClass\tryClass\obj\Debug\tryClass.Resources.resources
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryClass\tryClass\obj\Debug\tryClass.vbproj.GenerateResource.cache
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryClass\tryClass\obj\Debug\tryClass.vbproj.CoreCompileInputs.cache
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryClass\tryClass\obj\Debug\tryClass.exe
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryClass\tryClass\obj\Debug\tryClass.xml
+C:\Users\003674\OneDrive - Al Khor International School\A2\tryClass\tryClass\obj\Debug\tryClass.pdb
