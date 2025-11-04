@@ -1,0 +1,60 @@
+Dune
+Frank Herbert
+1965
+Science Fiction
+Chilton Books
+412
+Legend
+David Gemmell
+1984
+Fantasy
+Century
+345
+Educated
+Tara Westover
+2018
+Memoir
+Random House
+334
+Norwegian Wood
+Haruki Murakami
+1987
+Romance
+Kodansha
+296
+Mistborn: The Final Empire
+Brandon Sanderson
+2006
+Fantasy
+Tor Books
+541
+The Night Circus
+Erin Morgenstern
+2011
+Fantasy
+Doubleday
+387
+The Road
+Cormac McCarthy
+2006
+Post-Apocalyptic
+Alfred A. Knopf
+287
+The Alchemist
+Paulo Coelho
+1988
+Adventure Fiction
+HarperOne
+208
+1984
+George Orwell
+1949
+Dystopian
+Secker & Warburg
+328
+The Book Thief
+Markus Zusak
+2005
+Historical Fiction
+Knopf Books for Young Readers
+552
